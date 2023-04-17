@@ -1,0 +1,304 @@
+{
+  "Remission": [
+    {
+      "MiIIe_Remission": "integer NOT NULL"
+    },
+    {
+      "MieZX_Remission": "text NOT NULL"
+    },
+    {
+      "MiyuM_Remission": "text NOT NULL"
+    },
+    {
+      "Miybc_Remission": "text NOT NULL"
+    },
+    {
+      "MiWJp_Remission": "text NOT NULL"
+    },
+    {
+      "MiTwo_Remission": "text NOT NULL"
+    },
+    {
+      "MievG_Remission": "text NOT NULL"
+    },
+    {
+      "MiQDt_Remission": "text NOT NULL"
+    },
+    {
+      "MiVGf_Remission": "text NOT NULL"
+    },
+    {
+      "MiUvv_Remission": "text NOT NULL"
+    },
+    {
+      "MiMDe_Remission": "text NOT NULL"
+    },
+    {
+      "Miiby_Remission": "text NOT NULL"
+    },
+    {
+      "MiTfD_Remission": "text NOT NULL"
+    },
+    {
+      "MiHYo_Remission": "text NOT NULL"
+    },
+    {
+      "MiluN_Remission": "text NOT NULL"
+    },
+    {
+      "MiiKZ_Remission": "text NOT NULL"
+    },
+    {
+      "MiZIP_Remission": "text NOT NULL"
+    },
+    {
+      "MiqDS_Remission": "text NOT NULL"
+    },
+    {
+      "MiYRR_Remission": "text NOT NULL"
+    },
+    {
+      "MiVoM_Remission": "text NOT NULL"
+    },
+    {
+      "MiDWK_Remission": "text NOT NULL"
+    },
+    {
+      "MioIM_Remission": "text NOT NULL"
+    },
+    {
+      "MidHL_Remission": "text NOT NULL"
+    },
+    {
+      "MiSOx_Remission": "text NOT NULL"
+    },
+    {
+      "Mibpw_Remission": "text NOT NULL"
+    },
+    {
+      "MiXmF_Remission": "text NOT NULL"
+    },
+    {
+      "MioKI_Remission": "text NOT NULL"
+    },
+    {
+      "MiJkR_Remission": "text NOT NULL"
+    },
+    {
+      "Migkx_Remission": "text NOT NULL"
+    },
+    {
+      "MimkZ_Remission": "text NOT NULL"
+    },
+    {
+      "MiUkP_Remission": "text NOT NULL"
+    },
+    {
+      "MiVKi_Remission": "text NOT NULL"
+    },
+    {
+      "MiqxI_Remission": "text NOT NULL"
+    },
+    {
+      "MiGLr_Remission": "text NOT NULL"
+    },
+    {
+      "MiiDm_Remission": "text NOT NULL"
+    },
+    {
+      "MibLm_Remission": "text NOT NULL"
+    },
+    {
+      "MiUst_RemissionTime": "text NOT NULL"
+    },
+    {
+      "MiSjI_Remission": "text NOT NULL"
+    },
+    {
+      "Mixls_RemissionTime": "text NOT NULL"
+    },
+    {
+      "MiGbF_Remission": "text NOT NULL"
+    },
+    {
+      "Mihhy_Remission": "text NOT NULL"
+    },
+    {
+      "MiLjJ_Remission": "text NOT NULL"
+    },
+    {
+      "MiPlv_Remission": "text NOT NULL"
+    },
+    {
+      "MiPYi_Remission": "text NOT NULL"
+    },
+    {
+      "MieHe_Remission": "text NOT NULL"
+    },
+    {
+      "MiEHU_Remission": "text NOT NULL"
+    },
+    {
+      "MiTOJ_Remission": "text NOT NULL"
+    },
+    {
+      "Mivce_Remission": "text NOT NULL"
+    },
+    {
+      "MieCQ_Remission": "text NOT NULL"
+    },
+    {
+      "MisUV_Remission": "text NOT NULL"
+    },
+    {
+      "MiHQM_Remission": "text NOT NULL"
+    },
+    {
+      "MiMgG_Remission": "text NOT NULL"
+    },
+    {
+      "MiydV_Remission": "text NOT NULL"
+    },
+    {
+      "MiDKs_Remission": "text NOT NULL"
+    },
+    {
+      "Minio_Remission": "text NOT NULL"
+    },
+    {
+      "MibeC_RemissionTime": "text NOT NULL"
+    },
+    {
+      "MiGRV_Remission": "text NOT NULL"
+    },
+    {
+      "MiRiX_Remission": "text NOT NULL"
+    },
+    {
+      "MiptE_Remission": "text NOT NULL"
+    },
+    {
+      "MiqMx_Remission": "text NOT NULL"
+    },
+    {
+      "Mixcm_Remission": "text NOT NULL"
+    },
+    {
+      "MiioK_Remission": "text NOT NULL"
+    },
+    {
+      "MiHtG_Remission": "text NOT NULL"
+    },
+    {
+      "MiYEG_Remission": "text NOT NULL"
+    },
+    {
+      "MidJi_Remission": "text NOT NULL"
+    },
+    {
+      "MiVuW_Remission": "text NOT NULL"
+    },
+    {
+      "MiWxS_Remission": "text NOT NULL"
+    },
+    {
+      "MiPfm_Remission": "text NOT NULL"
+    },
+    {
+      "MiqiX_Remission": "text NOT NULL"
+    },
+    {
+      "MifZb_Remission": "text NOT NULL"
+    },
+    {
+      "MinDq_Remission": "text NOT NULL"
+    },
+    {
+      "MibDo_Remission": "text NOT NULL"
+    },
+    {
+      "MiCER_Remission": "text NOT NULL"
+    },
+    {
+      "MiGoH_Remission": "text NOT NULL"
+    },
+    {
+      "MiXTC_Remission": "text NOT NULL"
+    },
+    {
+      "MijhV_Remission": "text NOT NULL"
+    },
+    {
+      "MikXr_Remission": "text NOT NULL"
+    },
+    {
+      "MiyFi_Remission": "text NOT NULL"
+    },
+    {
+      "MiPWM_Remission": "text NOT NULL"
+    },
+    {
+      "MiNRu_Remission": "text NOT NULL"
+    },
+    {
+      "MiqCT_Remission": "text NOT NULL"
+    },
+    {
+      "Mikug_Remission": "text NOT NULL"
+    },
+    {
+      "MiPbN_RemissionTime": "text NOT NULL"
+    },
+    {
+      "MiYDl_Remission": "text NOT NULL"
+    },
+    {
+      "MiYJl_Remission": "text NOT NULL"
+    },
+    {
+      "MiuIs_Remission": "text NOT NULL"
+    },
+    {
+      "MiZUZ_Remission": "text NOT NULL"
+    },
+    {
+      "MiMlD_Remission": "text NOT NULL"
+    },
+    {
+      "MifPU_RemissionTime": "text NOT NULL"
+    },
+    {
+      "MivnK_Remission": "text NOT NULL"
+    },
+    {
+      "MisVG_Remission": "text NOT NULL"
+    },
+    {
+      "MiVEb_Remission": "text NOT NULL"
+    },
+    {
+      "MiTRf_Remission": "text NOT NULL"
+    },
+    {
+      "Mipho_Remission": "text NOT NULL"
+    },
+    {
+      "MiorL_Remission": "text NOT NULL"
+    },
+    {
+      "MigVT_Remission": "text NOT NULL"
+    },
+    {
+      "MismV_Remission": "text NOT NULL"
+    },
+    {
+      "MiSJL_Remission": "text NOT NULL"
+    },
+    {
+      "MixWg_Remission": "text NOT NULL"
+    },
+    {
+      "MiQsb_Remission": "text NOT NULL"
+    }
+  ]
+}

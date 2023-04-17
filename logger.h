@@ -1,0 +1,23 @@
+#ifndef LOGGER_H
+#define LOGGER_H
+
+#include <iostream>
+#include <fstream>
+#include <string>
+
+#include "datetime.h"
+#include "data.h"
+
+class logger
+{    
+    public:
+        
+    static long cnt;
+    static void ClearLog(std::string fn=Num::fn);
+    static void WriteMsg(std::string msg, std::string fn=Num::fn);
+    static void WriteMsgError(std::string msg, std::string fn=Num::fn);
+    static void SaveEndMsgNumber(std::string fn=Num::fn_logger_count_number);
+    static void ReadEndMsgNumber(std::string fn=Num::fn_logger_count_number);
+};
+
+#endif

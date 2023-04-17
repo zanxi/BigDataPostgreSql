@@ -1,0 +1,154 @@
+{
+  "DevPart": [
+    {
+      "NMLuLC_Particles": "integer NOT NULL"
+    },
+    {
+      "NMLGZN_Particles": "text NOT NULL"
+    },
+    {
+      "NMLxJI_Particles": "text NOT NULL"
+    },
+    {
+      "NMLZqS_Particles": "text NOT NULL"
+    },
+    {
+      "NMLQwu_Particles": "text NOT NULL"
+    },
+    {
+      "NMLmTl_Particles": "text NOT NULL"
+    },
+    {
+      "NMLoTQ_Particles": "text NOT NULL"
+    },
+    {
+      "NMLOWZ_Particles": "text NOT NULL"
+    },
+    {
+      "NMLRQs_Particles": "text NOT NULL"
+    },
+    {
+      "NMLnvy_Particles": "text NOT NULL"
+    },
+    {
+      "NMLcKK_Particles": "text NOT NULL"
+    },
+    {
+      "NMLRGn_Particles": "text NOT NULL"
+    },
+    {
+      "NMLfVo_Particles": "text NOT NULL"
+    },
+    {
+      "NMLhCk_ParticlesTime": "text NOT NULL"
+    },
+    {
+      "NMLKDk_Particles": "text NOT NULL"
+    },
+    {
+      "NMLklP_Particles": "text NOT NULL"
+    },
+    {
+      "NMLUeW_Particles": "text NOT NULL"
+    },
+    {
+      "NMLcly_Particles": "text NOT NULL"
+    },
+    {
+      "NMLKgL_Particles": "text NOT NULL"
+    },
+    {
+      "NMLlKG_Particles": "text NOT NULL"
+    },
+    {
+      "NMLLrj_Particles": "text NOT NULL"
+    },
+    {
+      "NMLven_Particles": "text NOT NULL"
+    },
+    {
+      "NMLmJi_Particles": "text NOT NULL"
+    },
+    {
+      "NMLjve_Particles": "text NOT NULL"
+    },
+    {
+      "NMLyej_Particles": "text NOT NULL"
+    },
+    {
+      "NMLKIe_Particles": "text NOT NULL"
+    },
+    {
+      "NMLJZY_Particles": "text NOT NULL"
+    },
+    {
+      "NMLgjI_Particles": "text NOT NULL"
+    },
+    {
+      "NMLdKi_Particles": "text NOT NULL"
+    },
+    {
+      "NMLJqZ_Particles": "text NOT NULL"
+    },
+    {
+      "NMLtZv_Particles": "text NOT NULL"
+    },
+    {
+      "NMLuST_ParticlesTime": "text NOT NULL"
+    },
+    {
+      "NMLSZH_Particles": "text NOT NULL"
+    },
+    {
+      "NMLfxM_Particles": "text NOT NULL"
+    },
+    {
+      "NMLEDC_ParticlesTime": "text NOT NULL"
+    },
+    {
+      "NMLWko_Particles": "text NOT NULL"
+    },
+    {
+      "NMLJYy_Particles": "text NOT NULL"
+    },
+    {
+      "NMLfnC_Particles": "text NOT NULL"
+    },
+    {
+      "NMLNrs_Particles": "text NOT NULL"
+    },
+    {
+      "NMLkRT_Particles": "text NOT NULL"
+    },
+    {
+      "NMLiwH_Particles": "text NOT NULL"
+    },
+    {
+      "NMLvQR_Particles": "text NOT NULL"
+    },
+    {
+      "NMLrgf_Particles": "text NOT NULL"
+    },
+    {
+      "NMLQkk_Particles": "text NOT NULL"
+    },
+    {
+      "NMLuVH_Particles": "text NOT NULL"
+    },
+    {
+      "NMLMXp_Particles": "text NOT NULL"
+    },
+    {
+      "NMLxjU_Particles": "text NOT NULL"
+    },
+    {
+      "NMLyDe_Particles": "text NOT NULL"
+    },
+    {
+      "NMLHlH_Particles": "text NOT NULL"
+    },
+    {
+      "NMLMdl_Particles": "text NOT NULL"
+    }
+  ]
+}

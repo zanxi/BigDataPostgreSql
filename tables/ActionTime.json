@@ -1,0 +1,394 @@
+{
+  "ActionTime": [
+    {
+      "SubIZL_Recom": "integer NOT NULL"
+    },
+    {
+      "SubGsc_Recom": "text NOT NULL"
+    },
+    {
+      "SubFOC_Recom": "text NOT NULL"
+    },
+    {
+      "SubqvC_Recom": "text NOT NULL"
+    },
+    {
+      "SubbVs_Recom": "text NOT NULL"
+    },
+    {
+      "SubtyG_Recom": "text NOT NULL"
+    },
+    {
+      "SubYEy_Recom": "text NOT NULL"
+    },
+    {
+      "SubqEm_Recom": "text NOT NULL"
+    },
+    {
+      "SubeiU_Recom": "text NOT NULL"
+    },
+    {
+      "Subexp_Recom": "text NOT NULL"
+    },
+    {
+      "SubNbu_Recom": "text NOT NULL"
+    },
+    {
+      "SubMdG_Recom": "text NOT NULL"
+    },
+    {
+      "Subqnf_Recom": "text NOT NULL"
+    },
+    {
+      "SubpMm_Recom": "text NOT NULL"
+    },
+    {
+      "SubdNg_Recom": "text NOT NULL"
+    },
+    {
+      "SubTry_Recom": "text NOT NULL"
+    },
+    {
+      "SubexE_Recom": "text NOT NULL"
+    },
+    {
+      "SubhOn_Recom": "text NOT NULL"
+    },
+    {
+      "SubCwP_RecomTime": "text NOT NULL"
+    },
+    {
+      "SubmoT_Recom": "text NOT NULL"
+    },
+    {
+      "SubrXy_Recom": "text NOT NULL"
+    },
+    {
+      "SubsFw_Recom": "text NOT NULL"
+    },
+    {
+      "SubLFg_Recom": "text NOT NULL"
+    },
+    {
+      "Sublln_Recom": "text NOT NULL"
+    },
+    {
+      "Subgcw_Recom": "text NOT NULL"
+    },
+    {
+      "SubOhj_Recom": "text NOT NULL"
+    },
+    {
+      "SubXTI_RecomTime": "text NOT NULL"
+    },
+    {
+      "SubFNH_Recom": "text NOT NULL"
+    },
+    {
+      "Subtgd_Recom": "text NOT NULL"
+    },
+    {
+      "SubqHo_Recom": "text NOT NULL"
+    },
+    {
+      "SubXHX_Recom": "text NOT NULL"
+    },
+    {
+      "SubuLh_Recom": "text NOT NULL"
+    },
+    {
+      "SubnKC_Recom": "text NOT NULL"
+    },
+    {
+      "SubttR_Recom": "text NOT NULL"
+    },
+    {
+      "SubgpS_Recom": "text NOT NULL"
+    },
+    {
+      "SubghF_Recom": "text NOT NULL"
+    },
+    {
+      "Subcfh_Recom": "text NOT NULL"
+    },
+    {
+      "SubhDI_Recom": "text NOT NULL"
+    },
+    {
+      "SubXrR_Recom": "text NOT NULL"
+    },
+    {
+      "SubytM_Recom": "text NOT NULL"
+    },
+    {
+      "SubHfE_Recom": "text NOT NULL"
+    },
+    {
+      "SubKqS_Recom": "text NOT NULL"
+    },
+    {
+      "SubpTi_Recom": "text NOT NULL"
+    },
+    {
+      "SubQuj_Recom": "text NOT NULL"
+    },
+    {
+      "Subthn_Recom": "text NOT NULL"
+    },
+    {
+      "SubQEj_Recom": "text NOT NULL"
+    },
+    {
+      "SubrWY_Recom": "text NOT NULL"
+    },
+    {
+      "SubwiJ_Recom": "text NOT NULL"
+    },
+    {
+      "SubiuO_Recom": "text NOT NULL"
+    },
+    {
+      "Subbio_Recom": "text NOT NULL"
+    },
+    {
+      "SubPeo_Recom": "text NOT NULL"
+    },
+    {
+      "SubeHH_Recom": "text NOT NULL"
+    },
+    {
+      "SubGpI_Recom": "text NOT NULL"
+    },
+    {
+      "SubNRw_Recom": "text NOT NULL"
+    },
+    {
+      "SubMSF_Recom": "text NOT NULL"
+    },
+    {
+      "SubjDd_Recom": "text NOT NULL"
+    },
+    {
+      "SubJSL_Recom": "text NOT NULL"
+    },
+    {
+      "SubKxc_Recom": "text NOT NULL"
+    },
+    {
+      "SubYLo_Recom": "text NOT NULL"
+    },
+    {
+      "Subjhk_Recom": "text NOT NULL"
+    },
+    {
+      "SubNjb_Recom": "text NOT NULL"
+    },
+    {
+      "Subciq_Recom": "text NOT NULL"
+    },
+    {
+      "SubSNy_RecomTime": "text NOT NULL"
+    },
+    {
+      "SubGsN_Recom": "text NOT NULL"
+    },
+    {
+      "SubnlW_Recom": "text NOT NULL"
+    },
+    {
+      "SubntV_Recom": "text NOT NULL"
+    },
+    {
+      "SubdOC_Recom": "text NOT NULL"
+    },
+    {
+      "Subycj_Recom": "text NOT NULL"
+    },
+    {
+      "SubNHD_Recom": "text NOT NULL"
+    },
+    {
+      "SubPNP_Recom": "text NOT NULL"
+    },
+    {
+      "SubCZG_Recom": "text NOT NULL"
+    },
+    {
+      "SubvQX_Recom": "text NOT NULL"
+    },
+    {
+      "SubhRv_Recom": "text NOT NULL"
+    },
+    {
+      "SuboLp_Recom": "text NOT NULL"
+    },
+    {
+      "SubvwZ_Recom": "text NOT NULL"
+    },
+    {
+      "SubeOM_Recom": "text NOT NULL"
+    },
+    {
+      "SubCVP_Recom": "text NOT NULL"
+    },
+    {
+      "SubcLn_Recom": "text NOT NULL"
+    },
+    {
+      "SubFqr_Recom": "text NOT NULL"
+    },
+    {
+      "SubrUr_Recom": "text NOT NULL"
+    },
+    {
+      "Subequ_Recom": "text NOT NULL"
+    },
+    {
+      "SubbCQ_Recom": "text NOT NULL"
+    },
+    {
+      "SubtFe_Recom": "text NOT NULL"
+    },
+    {
+      "SubVKh_Recom": "text NOT NULL"
+    },
+    {
+      "SubytU_Recom": "text NOT NULL"
+    },
+    {
+      "SubgxF_Recom": "text NOT NULL"
+    },
+    {
+      "SubLDf_Recom": "text NOT NULL"
+    },
+    {
+      "SubyPG_Recom": "text NOT NULL"
+    },
+    {
+      "SubEXc_Recom": "text NOT NULL"
+    },
+    {
+      "SubmrI_Recom": "text NOT NULL"
+    },
+    {
+      "SubLhP_Recom": "text NOT NULL"
+    },
+    {
+      "SubLiT_RecomTime": "text NOT NULL"
+    },
+    {
+      "SubXKE_Recom": "text NOT NULL"
+    },
+    {
+      "SubuoI_Recom": "text NOT NULL"
+    },
+    {
+      "SubHPT_Recom": "text NOT NULL"
+    },
+    {
+      "Subxip_Recom": "text NOT NULL"
+    },
+    {
+      "SubjDv_Recom": "text NOT NULL"
+    },
+    {
+      "Subxqn_Recom": "text NOT NULL"
+    },
+    {
+      "SubupP_Recom": "text NOT NULL"
+    },
+    {
+      "SubYRD_Recom": "text NOT NULL"
+    },
+    {
+      "SubrMZ_Recom": "text NOT NULL"
+    },
+    {
+      "SubmFP_Recom": "text NOT NULL"
+    },
+    {
+      "SubdFy_Recom": "text NOT NULL"
+    },
+    {
+      "SubgFl_Recom": "text NOT NULL"
+    },
+    {
+      "SubGuI_Recom": "text NOT NULL"
+    },
+    {
+      "SubHDS_Recom": "text NOT NULL"
+    },
+    {
+      "SubHQn_Recom": "text NOT NULL"
+    },
+    {
+      "SubGDx_Recom": "text NOT NULL"
+    },
+    {
+      "SubCGT_Recom": "text NOT NULL"
+    },
+    {
+      "SubZGS_Recom": "text NOT NULL"
+    },
+    {
+      "SubjJs_Recom": "text NOT NULL"
+    },
+    {
+      "SubwDb_Recom": "text NOT NULL"
+    },
+    {
+      "SubYZj_Recom": "text NOT NULL"
+    },
+    {
+      "Subcns_Recom": "text NOT NULL"
+    },
+    {
+      "SubkEs_Recom": "text NOT NULL"
+    },
+    {
+      "Subdfh_Recom": "text NOT NULL"
+    },
+    {
+      "SubxFj_Recom": "text NOT NULL"
+    },
+    {
+      "SubKZL_Recom": "text NOT NULL"
+    },
+    {
+      "SubeKU_Recom": "text NOT NULL"
+    },
+    {
+      "SubNof_Recom": "text NOT NULL"
+    },
+    {
+      "SubdIi_Recom": "text NOT NULL"
+    },
+    {
+      "SubRME_Recom": "text NOT NULL"
+    },
+    {
+      "SubFgL_Recom": "text NOT NULL"
+    },
+    {
+      "SubeLw_Recom": "text NOT NULL"
+    },
+    {
+      "SubUkP_Recom": "text NOT NULL"
+    },
+    {
+      "SubvmX_Recom": "text NOT NULL"
+    },
+    {
+      "SubZhW_Recom": "text NOT NULL"
+    },
+    {
+      "SubwWT_Recom": "text NOT NULL"
+    },
+    {
+      "SubhfE_Recom": "text NOT NULL"
+    },
+    {
+      "SubqlY_Recom": "text NOT NULL"
+    }
+  ]
+}

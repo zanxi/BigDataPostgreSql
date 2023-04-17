@@ -1,0 +1,34 @@
+{
+  "Material": [
+    {
+      "End_Snr_Work": "integer NOT NULL"
+    },
+    {
+      "End_ymS_Work": "text NOT NULL"
+    },
+    {
+      "End_yUO_WorkTime": "text NOT NULL"
+    },
+    {
+      "End_eLh_Work": "text NOT NULL"
+    },
+    {
+      "End_GtD_Work": "text NOT NULL"
+    },
+    {
+      "End_suD_Work": "text NOT NULL"
+    },
+    {
+      "End_LQn_Work": "text NOT NULL"
+    },
+    {
+      "End_rpT_Work": "text NOT NULL"
+    },
+    {
+      "End_bgS_WorkTime": "text NOT NULL"
+    },
+    {
+      "End_TkK_Work": "text NOT NULL"
+    }
+  ]
+}

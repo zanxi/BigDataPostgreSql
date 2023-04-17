@@ -1,0 +1,604 @@
+{
+  "Annigilation": [
+    {
+      "SubQvy_Pion": "integer NOT NULL"
+    },
+    {
+      "Subxwd_Pion": "text NOT NULL"
+    },
+    {
+      "SubKwf_Pion": "text NOT NULL"
+    },
+    {
+      "Subljq_Pion": "text NOT NULL"
+    },
+    {
+      "SubCPY_Pion": "text NOT NULL"
+    },
+    {
+      "SubooO_Pion": "text NOT NULL"
+    },
+    {
+      "Subqyp_Pion": "text NOT NULL"
+    },
+    {
+      "SubViv_Pion": "text NOT NULL"
+    },
+    {
+      "SubeNi_Pion": "text NOT NULL"
+    },
+    {
+      "SubwEV_Pion": "text NOT NULL"
+    },
+    {
+      "SubKqu_Pion": "text NOT NULL"
+    },
+    {
+      "SubLGN_Pion": "text NOT NULL"
+    },
+    {
+      "SubZTM_PionTime": "text NOT NULL"
+    },
+    {
+      "SubsxJ_Pion": "text NOT NULL"
+    },
+    {
+      "SubtZU_Pion": "text NOT NULL"
+    },
+    {
+      "SuboqK_PionTime": "text NOT NULL"
+    },
+    {
+      "SubuPv_Pion": "text NOT NULL"
+    },
+    {
+      "SubhNZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubYRm_Pion": "text NOT NULL"
+    },
+    {
+      "SubgXN_Pion": "text NOT NULL"
+    },
+    {
+      "SubNVj_Pion": "text NOT NULL"
+    },
+    {
+      "SubGJs_Pion": "text NOT NULL"
+    },
+    {
+      "SubjTp_Pion": "text NOT NULL"
+    },
+    {
+      "SubDVI_PionTime": "text NOT NULL"
+    },
+    {
+      "SubLsg_PionTime": "text NOT NULL"
+    },
+    {
+      "SubQpV_Pion": "text NOT NULL"
+    },
+    {
+      "SubnKf_Pion": "text NOT NULL"
+    },
+    {
+      "SubMfN_Pion": "text NOT NULL"
+    },
+    {
+      "SubLFP_Pion": "text NOT NULL"
+    },
+    {
+      "SubtVX_Pion": "text NOT NULL"
+    },
+    {
+      "Subsbi_Pion": "text NOT NULL"
+    },
+    {
+      "SubFhp_Pion": "text NOT NULL"
+    },
+    {
+      "SubcWE_Pion": "text NOT NULL"
+    },
+    {
+      "SubRvm_Pion": "text NOT NULL"
+    },
+    {
+      "SubDoC_Pion": "text NOT NULL"
+    },
+    {
+      "SubyUT_PionTime": "text NOT NULL"
+    },
+    {
+      "SubisP_Pion": "text NOT NULL"
+    },
+    {
+      "SubJRJ_Pion": "text NOT NULL"
+    },
+    {
+      "SubtTu_Pion": "text NOT NULL"
+    },
+    {
+      "SubmHM_Pion": "text NOT NULL"
+    },
+    {
+      "SubWvl_Pion": "text NOT NULL"
+    },
+    {
+      "SubRYY_Pion": "text NOT NULL"
+    },
+    {
+      "SubHWu_Pion": "text NOT NULL"
+    },
+    {
+      "SubpSS_Pion": "text NOT NULL"
+    },
+    {
+      "SubUDW_Pion": "text NOT NULL"
+    },
+    {
+      "SubIYG_Pion": "text NOT NULL"
+    },
+    {
+      "SubUTt_Pion": "text NOT NULL"
+    },
+    {
+      "SubPDI_Pion": "text NOT NULL"
+    },
+    {
+      "SubYlf_Pion": "text NOT NULL"
+    },
+    {
+      "SubrDU_Pion": "text NOT NULL"
+    },
+    {
+      "SubQLQ_Pion": "text NOT NULL"
+    },
+    {
+      "SubbpT_Pion": "text NOT NULL"
+    },
+    {
+      "SubCjD_Pion": "text NOT NULL"
+    },
+    {
+      "SubwRx_Pion": "text NOT NULL"
+    },
+    {
+      "SubkKn_Pion": "text NOT NULL"
+    },
+    {
+      "SubEqM_Pion": "text NOT NULL"
+    },
+    {
+      "SubFdx_Pion": "text NOT NULL"
+    },
+    {
+      "SubZsN_PionTime": "text NOT NULL"
+    },
+    {
+      "SubkwT_Pion": "text NOT NULL"
+    },
+    {
+      "SubHEk_Pion": "text NOT NULL"
+    },
+    {
+      "SubutW_Pion": "text NOT NULL"
+    },
+    {
+      "SubUvO_Pion": "text NOT NULL"
+    },
+    {
+      "SubRKJ_Pion": "text NOT NULL"
+    },
+    {
+      "SubrHr_Pion": "text NOT NULL"
+    },
+    {
+      "SubDPR_Pion": "text NOT NULL"
+    },
+    {
+      "SubNWV_Pion": "text NOT NULL"
+    },
+    {
+      "SubJQW_Pion": "text NOT NULL"
+    },
+    {
+      "SubFcw_Pion": "text NOT NULL"
+    },
+    {
+      "SubPvI_Pion": "text NOT NULL"
+    },
+    {
+      "SubXww_Pion": "text NOT NULL"
+    },
+    {
+      "SubrRb_Pion": "text NOT NULL"
+    },
+    {
+      "SubvFq_Pion": "text NOT NULL"
+    },
+    {
+      "SubPdD_Pion": "text NOT NULL"
+    },
+    {
+      "SubieK_Pion": "text NOT NULL"
+    },
+    {
+      "SubwWn_Pion": "text NOT NULL"
+    },
+    {
+      "SubGsP_Pion": "text NOT NULL"
+    },
+    {
+      "SubfLo_Pion": "text NOT NULL"
+    },
+    {
+      "SubQoj_PionTime": "text NOT NULL"
+    },
+    {
+      "SubTqF_PionTime": "text NOT NULL"
+    },
+    {
+      "SubJbr_Pion": "text NOT NULL"
+    },
+    {
+      "SubwlL_Pion": "text NOT NULL"
+    },
+    {
+      "SubxZq_Pion": "text NOT NULL"
+    },
+    {
+      "SubRnI_Pion": "text NOT NULL"
+    },
+    {
+      "SubcNR_Pion": "text NOT NULL"
+    },
+    {
+      "Subbpf_Pion": "text NOT NULL"
+    },
+    {
+      "SuboeT_Pion": "text NOT NULL"
+    },
+    {
+      "Subben_Pion": "text NOT NULL"
+    },
+    {
+      "SubMRf_Pion": "text NOT NULL"
+    },
+    {
+      "Subuxu_Pion": "text NOT NULL"
+    },
+    {
+      "SubyCi_Pion": "text NOT NULL"
+    },
+    {
+      "SubbEP_Pion": "text NOT NULL"
+    },
+    {
+      "Subcqc_Pion": "text NOT NULL"
+    },
+    {
+      "SubHLx_Pion": "text NOT NULL"
+    },
+    {
+      "SubLwZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubhxZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubOPu_Pion": "text NOT NULL"
+    },
+    {
+      "SubXhW_Pion": "text NOT NULL"
+    },
+    {
+      "SublKk_Pion": "text NOT NULL"
+    },
+    {
+      "SubbsH_Pion": "text NOT NULL"
+    },
+    {
+      "SubGUh_PionTime": "text NOT NULL"
+    },
+    {
+      "SubDqC_Pion": "text NOT NULL"
+    },
+    {
+      "SubnvF_Pion": "text NOT NULL"
+    },
+    {
+      "SuboHw_Pion": "text NOT NULL"
+    },
+    {
+      "SubEjo_Pion": "text NOT NULL"
+    },
+    {
+      "SubVpb_Pion": "text NOT NULL"
+    },
+    {
+      "Subrvb_Pion": "text NOT NULL"
+    },
+    {
+      "SubewJ_Pion": "text NOT NULL"
+    },
+    {
+      "SubHUo_Pion": "text NOT NULL"
+    },
+    {
+      "SubVpC_Pion": "text NOT NULL"
+    },
+    {
+      "SubbZg_Pion": "text NOT NULL"
+    },
+    {
+      "SubHDd_Pion": "text NOT NULL"
+    },
+    {
+      "SubkRC_Pion": "text NOT NULL"
+    },
+    {
+      "SubIOk_Pion": "text NOT NULL"
+    },
+    {
+      "SubdVM_Pion": "text NOT NULL"
+    },
+    {
+      "Subrst_Pion": "text NOT NULL"
+    },
+    {
+      "SubOrt_Pion": "text NOT NULL"
+    },
+    {
+      "SubMdP_Pion": "text NOT NULL"
+    },
+    {
+      "SubxcD_PionTime": "text NOT NULL"
+    },
+    {
+      "SubnQV_Pion": "text NOT NULL"
+    },
+    {
+      "Subgrv_PionTime": "text NOT NULL"
+    },
+    {
+      "Subhur_Pion": "text NOT NULL"
+    },
+    {
+      "SubgeX_PionTime": "text NOT NULL"
+    },
+    {
+      "SubYZI_Pion": "text NOT NULL"
+    },
+    {
+      "SubDKc_Pion": "text NOT NULL"
+    },
+    {
+      "SubPJJ_Pion": "text NOT NULL"
+    },
+    {
+      "Subrhm_Pion": "text NOT NULL"
+    },
+    {
+      "SubjxH_Pion": "text NOT NULL"
+    },
+    {
+      "Submic_Pion": "text NOT NULL"
+    },
+    {
+      "SubEnZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubJLh_Pion": "text NOT NULL"
+    },
+    {
+      "SubTph_Pion": "text NOT NULL"
+    },
+    {
+      "Subnjg_Pion": "text NOT NULL"
+    },
+    {
+      "SubYbi_Pion": "text NOT NULL"
+    },
+    {
+      "Subhgi_Pion": "text NOT NULL"
+    },
+    {
+      "SubHkQ_Pion": "text NOT NULL"
+    },
+    {
+      "Subwqv_Pion": "text NOT NULL"
+    },
+    {
+      "SubDoJ_Pion": "text NOT NULL"
+    },
+    {
+      "SubpMV_Pion": "text NOT NULL"
+    },
+    {
+      "SubFxU_Pion": "text NOT NULL"
+    },
+    {
+      "SubkQL_Pion": "text NOT NULL"
+    },
+    {
+      "Subhqf_Pion": "text NOT NULL"
+    },
+    {
+      "SubeCv_Pion": "text NOT NULL"
+    },
+    {
+      "SubKbp_Pion": "text NOT NULL"
+    },
+    {
+      "SubkEO_Pion": "text NOT NULL"
+    },
+    {
+      "SubYJN_Pion": "text NOT NULL"
+    },
+    {
+      "Subjew_Pion": "text NOT NULL"
+    },
+    {
+      "SubkVi_Pion": "text NOT NULL"
+    },
+    {
+      "SubYby_Pion": "text NOT NULL"
+    },
+    {
+      "SubnkE_PionTime": "text NOT NULL"
+    },
+    {
+      "SubHLs_Pion": "text NOT NULL"
+    },
+    {
+      "SubpQY_Pion": "text NOT NULL"
+    },
+    {
+      "SubwIg_Pion": "text NOT NULL"
+    },
+    {
+      "SubHFn_Pion": "text NOT NULL"
+    },
+    {
+      "SubpDu_Pion": "text NOT NULL"
+    },
+    {
+      "Subnly_PionTime": "text NOT NULL"
+    },
+    {
+      "SubofH_Pion": "text NOT NULL"
+    },
+    {
+      "SubMSk_Pion": "text NOT NULL"
+    },
+    {
+      "SubXVw_Pion": "text NOT NULL"
+    },
+    {
+      "SubSyY_Pion": "text NOT NULL"
+    },
+    {
+      "SubolM_Pion": "text NOT NULL"
+    },
+    {
+      "SubRtE_Pion": "text NOT NULL"
+    },
+    {
+      "SubelJ_Pion": "text NOT NULL"
+    },
+    {
+      "SubfLT_Pion": "text NOT NULL"
+    },
+    {
+      "SubiSG_Pion": "text NOT NULL"
+    },
+    {
+      "SubQUF_Pion": "text NOT NULL"
+    },
+    {
+      "SubXLZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubIuu_Pion": "text NOT NULL"
+    },
+    {
+      "SubfSr_Pion": "text NOT NULL"
+    },
+    {
+      "SubnPx_Pion": "text NOT NULL"
+    },
+    {
+      "SubcTn_Pion": "text NOT NULL"
+    },
+    {
+      "SubeSR_Pion": "text NOT NULL"
+    },
+    {
+      "SubdOI_Pion": "text NOT NULL"
+    },
+    {
+      "SubqKd_Pion": "text NOT NULL"
+    },
+    {
+      "SubCJc_Pion": "text NOT NULL"
+    },
+    {
+      "SubHrs_Pion": "text NOT NULL"
+    },
+    {
+      "SubjbO_Pion": "text NOT NULL"
+    },
+    {
+      "SubMci_Pion": "text NOT NULL"
+    },
+    {
+      "SubkFl_Pion": "text NOT NULL"
+    },
+    {
+      "Subeex_Pion": "text NOT NULL"
+    },
+    {
+      "SubRwq_Pion": "text NOT NULL"
+    },
+    {
+      "Subuku_Pion": "text NOT NULL"
+    },
+    {
+      "SubdvD_Pion": "text NOT NULL"
+    },
+    {
+      "SubnCx_PionTime": "text NOT NULL"
+    },
+    {
+      "SubWtN_Pion": "text NOT NULL"
+    },
+    {
+      "SubtHh_Pion": "text NOT NULL"
+    },
+    {
+      "SubDkv_Pion": "text NOT NULL"
+    },
+    {
+      "SubxwZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubwtT_Pion": "text NOT NULL"
+    },
+    {
+      "SubWDK_Pion": "text NOT NULL"
+    },
+    {
+      "Subpgp_Pion": "text NOT NULL"
+    },
+    {
+      "SubdML_Pion": "text NOT NULL"
+    },
+    {
+      "SubLfQ_Pion": "text NOT NULL"
+    },
+    {
+      "SubZIh_PionTime": "text NOT NULL"
+    },
+    {
+      "SubqOm_Pion": "text NOT NULL"
+    },
+    {
+      "SubcrH_Pion": "text NOT NULL"
+    },
+    {
+      "SubRRZ_Pion": "text NOT NULL"
+    },
+    {
+      "SubHym_Pion": "text NOT NULL"
+    },
+    {
+      "SubUtn_Pion": "text NOT NULL"
+    },
+    {
+      "SubZNc_Pion": "text NOT NULL"
+    },
+    {
+      "SubyDK_Pion": "text NOT NULL"
+    }
+  ]
+}

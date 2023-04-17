@@ -1,0 +1,34 @@
+{
+  "SvodkaData": [
+    {
+      "Data_Eie_Experiment": "integer NOT NULL"
+    },
+    {
+      "Data_bCx_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_XtZ_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_lup_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_ovb_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_Ves_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_RfD_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_CRZ_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_oUJ_Experiment": "text NOT NULL"
+    },
+    {
+      "Data_ymn_Experiment": "text NOT NULL"
+    }
+  ]
+}
