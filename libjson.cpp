@@ -60,11 +60,21 @@ void to_json(json& j, const key_value_t& kv)
       nlohmann::json js_out = nlohmann::json::object_t();
 
       std::vector<key_value_t> kv_;// = tab_[0];
-      kv_.push_back(key_value_t{ tab_[0][0], "integer NOT NULL" });  
-      for(int i=1; i<tab_[0].size();i++)
-      {     if(tab_[0][i]=="\r")break;      
-            key_value_t kv{ tab_[0][i], "text NOT NULL" };  
-            kv_.push_back(kv);
+      //kv_.push_back(key_value_t{ tab_[0][0], "integer NOT NULL" });  
+      for(int i=0; i<tab_[0].size();i++)
+      {     if(tab_[0][i]=="\r")break;     
+            if(Str::contains(Str::tolower(tab_[0][i]),"time")!=-1)
+                 {                    
+                    key_value_t kv{ tab_[0][i], "TIMESTAMP" };  
+                    kv_.push_back(kv);
+                 }
+                 else 
+                 {
+                    key_value_t kv{ tab_[0][i], "text NOT NULL" };                       
+                    kv_.push_back(kv);
+                 }
+            
+            
       }      
 
       nlohmann::json js_arr = kv_;

@@ -32,19 +32,26 @@ int main()
            //std::cout<<"("<<(i+40)<<") - "<< (char)(i+40)<<" | ";
        }
        std::cout<<"\n";
+        
+      //FD::DeleteFiles("vartab");
+      //FD::CreateDir("tables4");
 
-       
+        
       GenerateDB::CreateFolderDB();    
       libjson::CreateJsonVarTab();
       SqlDataBase::DropTables();     
       SqlDataBase::CreateDataBase();     
       SqlDataBase::AllTablesInsert();           
+      SqlDataBase::DropTables();           
+      /**/
+      FD::DeleteFiles("vartab");
+      FD::DeleteFiles("tables");
 
       //GenerateDB::CreateFolder();      
       //GenerateDB::CreateFolderDB();
       
       
-  }
+  }      
 
   catch (std::exception& e)
   {

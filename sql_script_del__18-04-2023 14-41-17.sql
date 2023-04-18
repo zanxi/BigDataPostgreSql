@@ -1,0 +1,32 @@
+DROP TABLE tzz_14_zij;
+DROP TABLE tzz_11_zij;
+DROP TABLE tzz_12_zij;
+DROP TABLE tzz_8_zij;
+DROP TABLE tzz_4_zij;
+DROP TABLE tzz_3_zij;
+DROP TABLE tzz_2_zij;
+DROP TABLE tzz_0_zij;
+DROP TABLE tzz_7_zij;
+DROP TABLE tzz_10_zij;
+DROP TABLE tzz_1_zij;
+DROP TABLE tzz_13_zij;
+DROP TABLE tzz_6_zij;
+DROP TABLE tzz_5_zij;
+DROP TABLE tzz_9_zij;
+  
+DROP TABLE tzz_14_zij;
+DROP TABLE tzz_11_zij;
+DROP TABLE tzz_12_zij;
+DROP TABLE tzz_8_zij;
+DROP TABLE tzz_4_zij;
+DROP TABLE tzz_3_zij;
+DROP TABLE tzz_2_zij;
+DROP TABLE tzz_0_zij;
+DROP TABLE tzz_7_zij;
+DROP TABLE tzz_10_zij;
+DROP TABLE tzz_1_zij;
+DROP TABLE tzz_13_zij;
+DROP TABLE tzz_6_zij;
+DROP TABLE tzz_5_zij;
+DROP TABLE tzz_9_zij;
+  

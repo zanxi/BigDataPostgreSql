@@ -5,6 +5,10 @@
 #include <iostream>
 #include <map>
 #include <string>
+#include <dirent.h>
+#include <ftw.h>
+#include <sys/stat.h>
+
 
 #include "logger.h"
 
@@ -27,6 +31,15 @@ class Str{
   static int contains(std::string str, std::string substr);    
       
 };
+
+class FD{
+  public:
+  static int CreateDir(std::string pathDir);       
+  static int DeleteFiles(std::string pathDir);       
+  static int DeleteFiles2(std::string pathDir);       
+
+};
+
 
 typedef std::vector<db_propeties> vec_db_prop;
 typedef std::map<int,vec_db_prop> map_db_prop;

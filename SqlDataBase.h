@@ -13,6 +13,8 @@ const std::string create_table_end = "WITH (OIDS=FALSE,MACS=FALSE);";
 class SqlDataBase
 {
 public:     
+    static std::string sql_script_f;
+    
     static void CreateDataBase();
     static std::string InsertStrokaFieldsNames(std::vector<std::string> columns_);
     static std::string InsertStrokaValues(

@@ -1,5 +1,6 @@
 #include "SqlDataBase.h"
 
+    std::string SqlDataBase::sql_script_f="";
 
     void  SqlDataBase::CreateDataBase()
     {         
@@ -31,7 +32,9 @@
 
              //std::cout << sql_script << "\n\n";
              logger::WriteMsg("   ");
-             logger::WriteMsg(sql_script);
+             //logger::WriteMsg(sql_script);
+             sql_script_f="sql_script_"+datetime::utcExample()+".sql";
+             logger::WriteSqlScript(sql_script,sql_script_f);
          }
     }
 
@@ -131,7 +134,8 @@
     {         
         std::map<int, std::vector<std::string>> rows_ = csvfile::Read_TabMap(tab_fn);         
         //std::cout << "TableInsert - Size column: "<< rows_.size() << "\n\n";
-        std::cout << "TableInsert - Size Rows: "<< rows_.size() << "\n\n";
+        std::cout << "TableInsert <<<"+tab_fn+">>> - Size Rows: "<< rows_.size() << "\n\n";
+        logger::WriteMsg("TableInsert <<<"+tab_fn+">>> - Size Rows: "+ std::to_string(rows_.size()));
         std::string sql_script = "INSERT INTO " + tab_fn + InsertStrokaFieldsNames(rows_[0]);
         
         if(rows_.size()<2)
@@ -170,7 +174,8 @@
         //sql_script += "CONSTRAINT "+ fn +"_pkey PRIMARY KEY ("+(tab_[n][0].key)+"))";
 
         logger::WriteMsg("   ");
-        logger::WriteMsg(sql_script);
+        //logger::WriteMsg(sql_script);
+        logger::WriteSqlScript(sql_script,sql_script_f);
         
     }
 
@@ -196,10 +201,15 @@
 
          for(auto fn:tabFiles)  
          {
-            sql_script = "DROP TABLE "+fn+";"; 
+            sql_script += "DROP TABLE "+fn+";"+"\n"; 
          }
         
         //logger::WriteMsg("   ");
-        //logger::WriteMsg(sql_script);
+        
+        std::string sql_script_del_all_tables = 
+        "sql_script_del__"+
+        datetime::utcExample()+
+        ".sql";
+        logger::WriteSqlScript(sql_script,sql_script_del_all_tables);
         
     }

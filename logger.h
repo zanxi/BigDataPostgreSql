@@ -18,6 +18,7 @@ class logger
     static void WriteMsgError(std::string msg, std::string fn=Num::fn);
     static void SaveEndMsgNumber(std::string fn=Num::fn_logger_count_number);
     static void ReadEndMsgNumber(std::string fn=Num::fn_logger_count_number);
+    static void WriteSqlScript(std::string msg, std::string fn=Num::fn);
 };
 
 #endif
