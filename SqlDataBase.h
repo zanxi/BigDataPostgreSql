@@ -15,6 +15,9 @@ class SqlDataBase
 public:     
     static std::string sql_script_f;
     
+    std::vector<std::string>  SortVars(std::vector<std::string> vars);
+    std::vector<std::string> SearchIdentVarsAndChange(std::vector<std::string> vars);        
+    
     static void CreateDataBase();
     static std::string InsertStrokaFieldsNames(std::vector<std::string> columns_);
     static std::string InsertStrokaValues(

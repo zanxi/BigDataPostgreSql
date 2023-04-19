@@ -22,7 +22,7 @@ void to_json(json& j, const key_value_t& kv);
 class libjson
 {
     public:
-
+    static vec_json_prop SearchIdentVarsAndChange(vec_json_prop vars);
     static map_json_prop Read_Tab(std::string fn = "RFeedSettings");
     static std::map<std::string, std::string> Read_Tab2(std::string fn = "RFeedSettings");
     static void CreateJsonVarTab();

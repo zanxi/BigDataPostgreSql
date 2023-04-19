@@ -15,6 +15,25 @@ void to_json(json& j, const key_value_t& kv)
   };
 }
 
+    vec_json_prop SearchIdentVarsAndChange(vec_json_prop vars)    
+    {       
+        std::string temp;
+        for(int i=0; i<vars.size();i++)
+        {   
+            temp = vars[i].key;        
+            for(int j=i; j<vars.size();j++)
+            {                            
+                if(temp == vars[j].key)
+                {
+                    vars[j].key+="__"+std::to_string(j);                    
+                    logger::WriteMsg("odinary vars: "+ vars[j].key);
+                }
+            }                        
+        }
+
+        return vars;
+
+    }
 
 
     map_json_prop libjson::Read_Tab(std::string fn)
@@ -26,6 +45,14 @@ void to_json(json& j, const key_value_t& kv)
         
         vec_json_prop kv_in;    
         js_in.at(fn).get_to(kv_in);        
+        //vec_json_prop kv_in_temp = SearchIdentVarsAndChange(kv_in);
+        //vec_json_prop kv_in_temp;
+        
+        //for(auto kv_:kv_in)
+        {
+          
+        }
+
         temp.insert(std::pair<int,vec_json_prop>(0,kv_in));			    
         return temp;
     }

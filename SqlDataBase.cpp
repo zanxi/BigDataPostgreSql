@@ -1,11 +1,52 @@
 #include "SqlDataBase.h"
 
-    std::string SqlDataBase::sql_script_f="";
+    std::string SqlDataBase::sql_script_f = "sql_script_"+datetime::utcExample()+".sql";
+
+    //void SqlDataBase::SearchIdentVars(std::vector<std::string> vars)    
+    std::vector<std::string> SqlDataBase::SortVars(std::vector<std::string> vars)    
+    {        
+        std::string tempmin;
+        for(int i=0; i<vars.size();i++)
+        {    
+            int k=0;
+            tempmin = vars[i];        
+            for(int j=i; j<vars.size();j++)
+            {                            
+                if(tempmin > vars[j])
+                {
+                    tempmin=vars[j];
+                    k=j;
+                }
+            }            
+            vars[k]=vars[i];
+            vars[i]=tempmin;
+        }
+        return vars;        
+    }
+
+    //void SqlDataBase::SearchIdentVars(std::vector<std::string> vars)    
+    std::vector<std::string>  SqlDataBase::SearchIdentVarsAndChange(std::vector<std::string> vars)    
+    {       
+        std::string temp;
+        for(int i=0; i<vars.size();i++)
+        {   
+            temp = vars[i];        
+            for(int j=0; j<vars.size();j++)
+            {                            
+                if(temp == vars[j]&&(i<j))
+                {
+                    vars[j]+="__"+std::to_string(j);                    
+                }
+            }                        
+        }
+
+        return vars;
+
+    }
 
     void  SqlDataBase::CreateDataBase()
     {         
          std::vector<std::string> tabFiles = csvfile::ReadFiles();
-         
 
          for(auto fn:tabFiles)  {
              std::cout<< "sql: " << fn << "\n";
@@ -13,6 +54,8 @@
              std::cout<< "size: " << tab_.size() << "\n";
              
              std::string sql_script = create_table+ " "+ fn + "(";
+             
+
 
              for (int i=0; i< tab_[0].size()-1;i++ ) 
              {
@@ -32,8 +75,7 @@
 
              //std::cout << sql_script << "\n\n";
              logger::WriteMsg("   ");
-             //logger::WriteMsg(sql_script);
-             sql_script_f="sql_script_"+datetime::utcExample()+".sql";
+             //logger::WriteMsg(sql_script);             
              logger::WriteSqlScript(sql_script,sql_script_f);
          }
     }
@@ -145,7 +187,7 @@
             //std::cout << ("<<<<No DATA>>>> <<< RANDOMIZE DATA>>>:" + sql_script);
 
             logger::WriteMsg("    ");
-            logger::WriteMsg("<<<<No DATA>>>> <<< RANDOMIZE DATA>>>:" + sql_script);
+            logger::WriteMsg("<<<<No DATA>>>> <<< RANDOMIZE DATA>>>:");
 
             sql_script += " VALUES ";
             for(int n=1;n<50;n++){           
@@ -153,7 +195,8 @@
             }
             sql_script +=  InsertStrokaValuesRandom(rows_[0], rows_[0])+";";
             logger::WriteMsg(" <<<<<<Random sql Insert>>>>>  ");
-            logger::WriteMsg(sql_script);
+            //logger::(sql_script);
+            logger::WriteSqlScript(sql_script,sql_script_f);
 
             return;
         }
